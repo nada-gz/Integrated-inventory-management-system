@@ -1485,6 +1485,7 @@ while (1) {
                 {
                     cout<<"-------------------Show History(Stacks)------------------------"<<endl;
                     //show history
+		    sk.print();
                     getch();
                     system("cls");
                     break;
@@ -1493,6 +1494,7 @@ while (1) {
                 {
                     cout<<"-------------------Show Queue------------------------"<<endl;
                     //show queue
+		    qu.display();
                     getch();
                     system("cls");
                     break;
