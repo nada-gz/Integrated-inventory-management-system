@@ -6,9 +6,13 @@ is the full program and the only file existed. By opening and running, you will 
 
 ### Manual:
 
-    1 or 2. Linked List System: here you can manage spare parts or suppliers lists by adding, displaying, or modifying them.
+    1 or 2. Linked List System:
+    
+        here you can manage spare parts or suppliers lists by adding, displaying, or modifying them.
 
-    3. Binary Search Tree System: by choosing this option, all the data stored in the linked list system will be saved in a sorted way in a BST.
+    3. Binary Search Tree System:
+    
+        by choosing this option, all the data stored in the linked list system will be saved in a sorted way in a BST.
 
        Then you will have control of this tree:
 
@@ -24,6 +28,10 @@ is the full program and the only file existed. By opening and running, you will 
 
          vi and vii. These are the same options that will be mentioned in 4 and 5. They allow for operating the stack and queue systems.
 
-    4. Stack System: This displays a history for managing all of the user interactions during data input (LIFO). 
+    4. Stack System: 
+    
+        This displays a history for managing all of the user interactions during data input (LIFO). 
 
-    5. Queue System: This displays the steps the user encountered while processing or modifying the data (FIFO).
+    5. Queue System: 
+        
+        This displays the steps the user encountered while processing or modifying the data (FIFO).
